@@ -14,7 +14,7 @@ sap.ui.define(["sap/ui/model/json/JSONModel"], function(JSONModel) {
 		WITH_SICKNESS = true,
 		
 		TAX_SCALE = "18",
-		TAX_SCALE_LVL_2 = 85528.00,
+		TAX_SCALE_LVL_2 = 0.00,
 		TAX_FLAT = "19",
 
 		TAXFREE_ALLOWANCE = 556.02,
